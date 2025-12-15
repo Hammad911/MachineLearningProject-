@@ -2,6 +2,9 @@
 *.apk
 *.xapk
 
+# Android malware folder
+android_malware/
+
 # Python
 __pycache__/
 *.py[cod]
