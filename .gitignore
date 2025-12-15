@@ -60,6 +60,10 @@ MalignantData/*.csv
 # Logs
 *.log
 
+# Test Results
+*test_results*.txt
+apk_test_results.txt
+
 # Temporary files
 *.tmp
 *.temp
