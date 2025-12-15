@@ -3,7 +3,7 @@
 *.xapk
 
 # Android malware folder
-android_malware/
+android-malware/
 
 # Python
 __pycache__/
@@ -43,6 +43,7 @@ models/*.pkl
 models/*.h5
 models/*.pt
 models/*.pth
+models/backup*/
 
 # Datasets (large files)
 DataSet/*.parquet
